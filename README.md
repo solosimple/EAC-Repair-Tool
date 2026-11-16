@@ -1,49 +1,39 @@
-🛠️ EAC Repair & Restore Tool
+🛠️ Easy Anti-Cheat Repair & Restore Tool
 
-Windows Easy Anti-Cheat troubleshooting utility for Starship Troopers: Extermination and other EAC-protected games.
+Having trouble launching Starship Troopers: Extermination or experiencing Easy Anti-Cheat errors?
 
-A free, unofficial community tool designed to help players troubleshoot Easy Anti-Cheat errors, game launch failures and potential connection issues without manually entering PowerShell commands.
+This free Windows troubleshooting tool helps you fix common EAC problems without needing to know PowerShell or enter complicated commands.
 
-⚙️ Features
+⚙️ What Does It Do?
 
-- 🔧 EAC Repair — Detects game installations across multiple drives and provides repair options.
-- 💾 Backup & Restore — Backs up affected files and tracks changes for restoration.
-- 🎮 Unreal Engine Config Reset — Backs up and resets problematic local configurations.
-- 🌐 IPv6 Troubleshooting — Optional IPv6 disable/restore workaround for investigating network issues.
-- 🖥️ Windows System Repair — Runs DISM and SFC to check and repair Windows system files.
-- 🔄 Recovery Options — Helps restore backed-up settings if troubleshooting doesn't resolve the issue.
+- 🔧 Repairs Easy Anti-Cheat installations
+- 🎮 Finds supported games across your drives
+- 💾 Backs up and restores affected files
+- 🌐 Includes an optional IPv6 connection workaround
+- 🖥️ Checks and repairs Windows system files
+- 🔄 Resets problematic game configurations
 
-📥 Download & Installation
+📥 How to Download & Run
 
-1. Download the latest Player Edition ZIP from "Releases" (../../releases/latest).
-2. Extract both files into the same folder.
-3. Double-click "Run_EAC_Repair.cmd".
-4. Approve the Windows administrator prompt.
-5. Follow the on-screen instructions.
+1. Scroll below this README to the file list.
+2. Click "EAC_Repair_Player_Download_v2.0.zip".
+3. Click the ⬇️ Download icon, or select Download from the ⋯ three-dot menu.
+4. Extract the downloaded ZIP.
+5. Double-click "Run_EAC_Repair.cmd".
+6. Click Yes when Windows asks for administrator permission.
+7. Follow the on-screen menu!
 
-Recommended: Start with the game-specific EAC repair before trying advanced troubleshooting options.
+💡 Tip: Start with the EAC repair option. Only try other fixes if needed.
 
-🌐 IPv6 Troubleshooting
+⚠️ Good to Know
 
-Some players investigate IPv6 configuration when experiencing connectivity problems.
+- Windows PC only.
+- Close your game before running the tool.
+- IPv6 changes are optional and reversible.
+- Backups are provided, but fixes and restoration aren't guaranteed.
+- The tool hasn't yet been fully tested on a live Windows system.
+- This is an unofficial community tool, not affiliated with Offworld Industries, Epic Games or Easy Anti-Cheat.
 
-The tool includes an optional workaround that can temporarily disable IPv6 on a selected network adapter and record its previous state for restoration.
-
-IPv6 changes are not automatic. Only use this option when investigating a suspected network-related problem. Disabling IPv6 is not a confirmed universal fix for STE and may affect other Windows services.
-
-⚠️ Important Information
-
-- Windows only.
-- Requires administrator privileges.
-- Close your game before running repairs.
-- Backups and recovery options are provided, but restoration cannot be guaranteed in every situation.
-- Windows-specific repairs have not yet been fully validated on a live system.
-- This is an unofficial community project and is not affiliated with Offworld Industries, Epic Games or Easy Anti-Cheat.
-
-🤝 Community
-
-Created to help the Starship Troopers: Extermination community troubleshoot common Windows and EAC problems.
-
-If you encounter an issue, please report it through GitHub Issues, including your Windows version, the troubleshooting option used and any error messages.
+---
 
 Would you like to know more? 🫡
