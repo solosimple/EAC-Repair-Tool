@@ -31,7 +31,7 @@ This free Windows troubleshooting tool helps you fix common EAC problems without
 - Close your game before running the tool.
 - IPv6 changes are optional and reversible.
 - Backups are provided, but fixes and restoration aren't guaranteed.
-- The tool hasn't yet been fully tested on a live Windows system.
+- The tool hasn't yet been fully tested on a live Windows system beyond my own.
 - This is an unofficial community tool, not affiliated with Offworld Industries, Epic Games or Easy Anti-Cheat.
 
 ---
