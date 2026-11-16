@@ -1,4 +1,4 @@
-🛠️ Easy Anti-Cheat Repair & Restore Tool
+🛠️ Easy Anti-Cheat Repair and Restore Tool
 
 Having trouble launching Starship Troopers: Extermination or experiencing Easy Anti-Cheat errors?
 
